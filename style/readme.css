@@ -1,0 +1,35 @@
+.yellow-bg {
+    background-color: yellow;
+  }
+  .yellow-bg {
+      text-decoration: underline;
+  }
+  .gray-bg {
+    background-color: grey;
+  }
+  .gray-bg {
+      text-decoration: underline;
+  }
+  #year {
+      font-style: italic;
+  }
+  #year {
+      font-weight: bold;
+  }
+  #year {
+      color: red;
+  }
+
+
+
+
+
+table {
+    border-style: solid;
+}
+td {
+    border-style: solid;
+}
+tr:hover {
+    background-color: aqua;
+}
